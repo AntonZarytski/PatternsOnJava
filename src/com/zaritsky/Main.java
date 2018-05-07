@@ -20,6 +20,7 @@ public class Main {
             }
             Ticket tiket = mapper.getTicketById(13);
             Ticket tiket2 = mapper.getTicketById(13);
+            Ticket tiket3 = mapper.getTicketById(13);
         } catch (SQLException e) {
             e.printStackTrace();
         }
