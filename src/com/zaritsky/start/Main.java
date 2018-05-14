@@ -21,7 +21,6 @@ public class Main extends Application {
         primaryStage.setMinWidth(400);
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
-
         testData();
     }
 
